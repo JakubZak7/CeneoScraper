@@ -1,7 +1,7 @@
 # CeneoScraper
 
 ## Kod produktu do testów
-105563155
+84514582
 
 ## Algorytm pobierania opinii o produkcie z serwisu Ceneo.pl
 1. Wysłanie żądania dostępu do strony internetowej z opiniami o produkcie
@@ -16,7 +16,7 @@
 |--------|-------|--------|
 |opinia|review|div.js_product-review|
 |identyfikator opinii|rewiev_id|["data-entry-id"]|
-|autora|author|span.user-post__author|
+|autora|author|span.user-post__author-name|
 |rekomendację|recommend|span.user-post__author-recomendation > em|
 |liczbę gwiazdek|stars|span.user-post__score-count|
 |treść opinii|content|div.user-post__text|
