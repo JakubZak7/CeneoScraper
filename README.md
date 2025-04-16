@@ -14,8 +14,8 @@
 
 |składowa|zmienna|selektor|
 |--------|-------|--------|
-|opinia|review|div.js_product-review|
-|identyfikator opinii|rewiev_id|["data-entry-id"]|
+|opinia|opinion|div.js_product-review|
+|identyfikator opinii|opinion_id|["data-entry-id"]|
 |autora|author|span.user-post__author-name|
 |rekomendację|recommend|span.user-post__author-recomendation > em|
 |liczbę gwiazdek|stars|span.user-post__score-count|
